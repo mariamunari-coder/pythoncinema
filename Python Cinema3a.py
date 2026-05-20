@@ -9,7 +9,7 @@ while True:
     print('2. Buscar por título')
     print('3. Adicionar filme')
     print('0. Sair')
-#
+    
     opcao = input("\nEscolha uma opção: ")
     if opcao == '1':
         print('\nLista de Filmes')
